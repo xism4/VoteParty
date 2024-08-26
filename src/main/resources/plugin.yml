@@ -2,8 +2,7 @@ name: VoteParty
 main: me.clip.voteparty.plugin.VotePartyPlugin
 
 version: '@version@'
-website: 'https://helpch.at/discord'
-authors: ['Glare', 'Clip', 'Sxtanna']
+authors: ['Clip']
 
 depend:
   - 'PlaceholderAPI'
@@ -11,7 +10,7 @@ softdepend:
   - 'Votifier'
 
 api-version: '1.13'
-description: 'Reward players with random commands being executed for them when the server gets x amount of votes'
+description: 'Heavily modified VoteParty version by xism4'
 
 
 permissions:
