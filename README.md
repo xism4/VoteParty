@@ -34,3 +34,4 @@ Give a ⭐️ if this project helped you!
 
 Copyright © 2021 [darbyjack](https://github.com/darbyjack).<br />
 This project is [MIT](https://github.com/darbyjack/VoteParty/blob/master/LICENSE.md) licensed.
+"# VoteParty" 
